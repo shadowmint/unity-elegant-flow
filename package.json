@@ -1,0 +1,28 @@
+{
+  "name": "unity-elegant-floe",
+  "version": "0.0.1",
+  "description": "React inspired component UI",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowmint/unity-elegant-flow.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "douglas.linder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowmint/unity-elegant-flow/issues"
+  },
+  "homepage": "https://github.com/shadowmint/unity-elegant-flow",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
