@@ -2,6 +2,8 @@
 
 React inspired component based UI for unity3d.
 
+This package requires the 4.6 or greater equivalent unity runtime.
+
 This is a pre-release version, as such there are no tagged releases.
 
 ## Usage
